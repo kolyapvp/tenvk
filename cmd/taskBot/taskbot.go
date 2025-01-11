@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	BotToken   = "7640288579:AAGIa8jcP_cNA-3PKTVtk27pBL3x2UoNros"
+	BotToken   = "76402885797pBL3x2UoNros"
 	WebhookURL = "3123.12312.3213"
 )
 
